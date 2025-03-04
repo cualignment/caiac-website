@@ -11,6 +11,11 @@ export default function TeamPage() {
       image: "/team/ryan-zhang.jpg",
     },
     {
+      name: "Olivia Long",
+      title: "Director of Outreach",
+      image: "/team/olivialong.jpg",
+    },
+    {
       name: "Thomas Gansa",
       title: "Communications Lead",
       image: "/team/thomasgansa.png",
